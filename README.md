@@ -1,4 +1,4 @@
-# AJE-Trimester-Bias-Simulation
+# AJE Trimester Bias Simulation Code
 
 Code to reproduce simulation from the paper
 
